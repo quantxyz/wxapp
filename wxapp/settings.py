@@ -80,9 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'wxapp',
         'USER': 'root',
-        'PASSWORD': 'cplus',
-        # UPDATE user SET password=PASSWORD('conJL2016St') WHERE user='guanjia';
-        # FLUSH PRIVILEGES;
+        'PASSWORD': '***********',
         'HOST': 'localhost',
         'PORT': '3306',
     }
